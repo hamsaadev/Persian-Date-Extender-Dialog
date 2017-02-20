@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PersianExtendDialog</string>
+    <string name="title">اتاق فکر شما تا %1$s تمدید می شود</string>
+</resources>

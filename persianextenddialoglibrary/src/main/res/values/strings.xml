@@ -1,0 +1,16 @@
+<resources>
+    <string name="persianExtendDialogLibrary_unlimited" translatable="false">\u221E</string>
+    <string name="persianExtendDialogLibrary_always">همیشه</string>
+    <string-array name="persianExtendDialogLibrary_dates">
+        <item>۱ روز</item>
+        <item>۲ روز</item>
+        <item>۳ روز</item>
+        <item>۴ روز</item>
+        <item>۱ هفته</item>
+        <item>۲ هفته</item>
+        <item>۱ ماه</item>
+        <item>۲ ماه</item>
+        <item>۳ ماه</item>
+        <item>نامحدود</item>
+    </string-array>
+</resources>
