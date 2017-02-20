@@ -1,6 +1,7 @@
 # Persian Extend Date Dialog
+[![](https://jitpack.io/v/hamsaadev/Persian-Date-Extender-Dialog.svg)](https://jitpack.io/#hamsaadev/Persian-Date-Extender-Dialog)
 
-![Hero Image]()
+![Hero Image](https://raw.githubusercontent.com/hamsaadev/Persian-Date-Extender-Dialog/master/shot/heroimage.jpg)
 
 ## Description
 
@@ -24,7 +25,7 @@ allprojects {
 Step 2. Add the dependency
 ```groovy
 dependencies {
-    compile ''
+	compile 'com.github.hamsaadev:Persian-Date-Extender-Dialog:V1.0.0'
 }
 ```
 
